@@ -1,0 +1,782 @@
+{
+  "Documents/AccentureJob": {
+    "archive": "Documents__AccentureJob.tar.gz",
+    "files": 12,
+    "bytes": 4791656,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/CV Esmeralda Mora.pdf",
+        "size": 204545,
+        "mtime": "2024-09-18T18:56"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/AWS Certified Solutions Architect - Associate.pdf",
+        "size": 31255,
+        "mtime": "2024-08-20T04:27"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Elena Portuguez Mora_Certificate of Language Proficiency (full version).pdf",
+        "size": 156577,
+        "mtime": "2024-09-14T23:02"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Elena Portuguez Mora_Certificate of Language Proficiency.pdf",
+        "size": 46785,
+        "mtime": "2024-09-14T23:02"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/LLM MANAGER.docx",
+        "size": 30120,
+        "mtime": "2024-09-27T02:26"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Contrato Laboral Portuguez Mora Elena Ariana_encrypted_.pdf",
+        "size": 633068,
+        "mtime": "2024-10-07T23:30"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Job Aid - New Joiner Onboarding Tasks Costa Rica.pdf",
+        "size": 890710,
+        "mtime": "2024-10-01T23:23"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/LATAM+Below+MD+WDD+(Spanish)+2024-09-16-2.pdf",
+        "size": 176627,
+        "mtime": "2024-09-17T00:23"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Guía Windows Accenture.pdf",
+        "size": 2301726,
+        "mtime": "2024-10-08T01:17"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/Costa Rica Employee Contract Form 2024-10-03.pdf",
+        "size": 53457,
+        "mtime": "2024-10-03T18:20"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/LATAM Below MD WDD (Spanish) 2024-09-16.pdf",
+        "size": 176624,
+        "mtime": "2024-09-26T06:39"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/AccentureJob/CV_Eng_Elena_Portuguez.pdf",
+        "size": 90162,
+        "mtime": "2024-08-21T17:30"
+      }
+    ]
+  },
+  "Documents/ElenaPortuguezCV": {
+    "archive": "Documents__ElenaPortuguezCV.tar.gz",
+    "files": 16,
+    "bytes": 27953554,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Titulo UAM.pdf",
+        "size": 169453,
+        "mtime": "2022-04-13T20:12"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Web Design with Bootstrap.pdf",
+        "size": 333205,
+        "mtime": "2022-10-13T23:48"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Titulo Elena fundacion steam.pdf",
+        "size": 609217,
+        "mtime": "2022-04-13T19:39"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Personal ID.pdf",
+        "size": 172253,
+        "mtime": "2022-10-05T22:28"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Scrum Master.pdf",
+        "size": 325459,
+        "mtime": "2022-04-13T19:31"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Human-Centered Design for Inclusive Innovation.pdf",
+        "size": 365510,
+        "mtime": "2022-04-13T19:32"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Gender Analytics for Innovation.pdf",
+        "size": 353790,
+        "mtime": "2022-04-13T19:31"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Elena Portuguez CV.pdf",
+        "size": 134124,
+        "mtime": "2022-10-13T23:56"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Tipografias_Carpeta/aesthetic_romance/README.txt",
+        "size": 851,
+        "mtime": "2023-06-29T05:30"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Destacadas instagram/Destacadas instagram parte 2.pdf",
+        "size": 429756,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Destacadas instagram/Destacadas instagram parte 1.pdf",
+        "size": 452599,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Logos/Logo principal/Logo CMYK/LOGO PDF.pdf",
+        "size": 362631,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Logos/Logo secundario/LOGO CMYK/LOGO PDF S.pdf",
+        "size": 350994,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Mockups/Mockup 2.pdf",
+        "size": 141309,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Mockups/Mockup 1.pdf",
+        "size": 17713924,
+        "mtime": "2023-06-29T05:25"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ElenaPortuguezCV/Ariana-marca libro/Ariana/Manual de informaci¢n/Manual de informaci¢n Ariana.pdf",
+        "size": 6038479,
+        "mtime": "2023-06-29T05:25"
+      }
+    ]
+  },
+  "Documents/_root": {
+    "archive": "Documents___root.tar.gz",
+    "files": 28,
+    "bytes": 26616025,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Documents/Documentos Conape.pdf",
+        "size": 528262,
+        "mtime": "2025-06-05T02:53"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/0079955852_contrato.pdf",
+        "size": 191274,
+        "mtime": "2025-10-29T01:27"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Curricular.pdf",
+        "size": 4298514,
+        "mtime": "2025-11-09T15:44"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Aplicación de Investors Trusttt.pdf",
+        "size": 643300,
+        "mtime": "2025-05-11T03:59"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Buenos días.docx",
+        "size": 182329,
+        "mtime": "2025-06-05T02:52"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Notas Elena Portuguez firmado.pdf",
+        "size": 259648,
+        "mtime": "2025-01-15T05:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Información de Referentes.docx",
+        "size": 45378,
+        "mtime": "2024-09-17T23:59"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Scheduling jobs Elena Portuguez.pdf",
+        "size": 30192,
+        "mtime": "2025-06-06T04:08"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Programa Estudios Elena Portuguez firmado.pdf",
+        "size": 289037,
+        "mtime": "2025-01-15T05:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Passport.pdf",
+        "size": 3262442,
+        "mtime": "2025-02-12T21:45"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/ECOMMERCE_2024_ (1).pdf",
+        "size": 15345829,
+        "mtime": "2024-11-26T03:06"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Algoritmo de Floyd - Elena Portuguez.pdf",
+        "size": 29135,
+        "mtime": "2025-05-23T04:37"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Algoritmo de Floyd.docx",
+        "size": 16564,
+        "mtime": "2025-05-30T04:00"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Propuesta Elena Portuguez.pdf",
+        "size": 352569,
+        "mtime": "2025-08-06T01:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Sistema de Iluminación Adaptativa en VR con Eye Tracking.docx",
+        "size": 32739,
+        "mtime": "2025-10-28T14:11"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen del Método Monte Carlo.docx",
+        "size": 17190,
+        "mtime": "2025-06-13T03:41"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/CARTA DE AUTORIZACIÓN.docx",
+        "size": 17858,
+        "mtime": "2025-10-03T04:46"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/id.pdf",
+        "size": 187602,
+        "mtime": "2025-02-12T21:48"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Tesis (1).pdf",
+        "size": 109719,
+        "mtime": "2025-05-23T04:50"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Boleta para devolución UAM 12 (2) (003) copy.pdf",
+        "size": 333905,
+        "mtime": "2025-02-23T19:10"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Horario.pdf",
+        "size": 168340,
+        "mtime": "2026-01-03T20:24"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Árboles de Expansión Mínima.docx",
+        "size": 13393,
+        "mtime": "2025-05-09T04:01"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Chrome Pas.xlsx",
+        "size": 12281,
+        "mtime": "2024-07-29T20:12"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/CONFIRMACIÓN DE REQUISITOS.docx",
+        "size": 157692,
+        "mtime": "2025-10-05T04:53"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Algoritmo de Monte Carlo.docx",
+        "size": 17104,
+        "mtime": "2025-05-30T04:17"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Expediente24.320.docx",
+        "size": 27540,
+        "mtime": "2025-08-12T19:45"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Task 1:2.docx",
+        "size": 16438,
+        "mtime": "2025-10-08T02:12"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/Resumen Computing Complexity Measures of Degenerate Graphs - Elena Portuguez.pdf",
+        "size": 29751,
+        "mtime": "2025-06-13T03:41"
+      }
+    ]
+  },
+  "Documents/naranjo seguro": {
+    "archive": "Documents__naranjo_seguro.tar.gz",
+    "files": 7,
+    "bytes": 13843124,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/Bijou Solutions, Inc.  2020.pdf",
+        "size": 3254623,
+        "mtime": "2023-09-06T03:38"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/GUIA RAPIDA DE USO ALLIANZA SMART DC.pdf",
+        "size": 5895031,
+        "mtime": "2023-09-06T03:37"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/Certificacion salarial Elena 2.pdf",
+        "size": 126543,
+        "mtime": "2023-09-05T20:58"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/The Future of Allianza Smart Data Connections.pdf",
+        "size": 4565301,
+        "mtime": "2023-09-06T03:39"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/Naranjo-Seguro-main/Naranjo-Seguro-main/.expo/README.md",
+        "size": 795,
+        "mtime": "2023-09-05T06:30"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/naranjoApi/naranjoApi/README.md",
+        "size": 36,
+        "mtime": "2023-09-05T06:31"
+      },
+      {
+        "path": "/Users/arianaportuguez/Documents/naranjo seguro/naranjoApi/naranjoApi/.expo/README.md",
+        "size": 795,
+        "mtime": "2023-09-05T06:31"
+      }
+    ]
+  },
+  "Documents/sistema-reservas": {
+    "archive": "Documents__sistema-reservas.tar.gz",
+    "files": 1,
+    "bytes": 854,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Documents/sistema-reservas/README.md",
+        "size": 854,
+        "mtime": "2025-04-27T03:58"
+      }
+    ]
+  },
+  "Downloads/Documentos personales": {
+    "archive": "Downloads__Documentos_personales.tar.gz",
+    "files": 19,
+    "bytes": 16748248,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Titulo UAM.pdf",
+        "size": 169453,
+        "mtime": "2025-01-15T05:13"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Expediente24.067.DOCX",
+        "size": 39348,
+        "mtime": "2025-08-12T19:45"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Elena Ariana Portuguez Mora.pdf",
+        "size": 118144,
+        "mtime": "2025-03-27T03:38"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Expediente24.285.DOCX",
+        "size": 96334,
+        "mtime": "2025-08-12T19:45"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Titulo Elena Portuguez UNAM firmado-1.pdf",
+        "size": 258479,
+        "mtime": "2025-04-20T02:17"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Certificado hoja delincuencia - 12661732.pdf",
+        "size": 1807303,
+        "mtime": "2025-11-07T06:01"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Certificado hoja delincuencia - 12661731.pdf",
+        "size": 1807302,
+        "mtime": "2025-11-07T06:01"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Titulo Elena Portuguez.pdf",
+        "size": 250104,
+        "mtime": "2025-01-16T18:28"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Certificado hoja delincuencia - 12661734.pdf",
+        "size": 1807302,
+        "mtime": "2025-11-07T06:00"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Certificación de notas.pdf",
+        "size": 565577,
+        "mtime": "2025-01-15T05:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Elena Ariana_Portuguez Mora_497343113.pdf",
+        "size": 1447202,
+        "mtime": "2025-01-30T22:35"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/MREC-SC-IN-02 Instructivo atencion a personas usuarias que requieran trato preferencial..pdf",
+        "size": 707619,
+        "mtime": "2025-08-11T04:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Elena Ariana_Portuguez Mora_497343113-2.pdf",
+        "size": 1447202,
+        "mtime": "2025-02-09T19:33"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Titulo Elena Portuguez UNAM firmado.pdf",
+        "size": 258479,
+        "mtime": "2025-01-16T18:28"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Identifications.pdf",
+        "size": 3436835,
+        "mtime": "2025-01-15T05:11"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/MREC-SC-GI-01 Guia solicitud de citas para Apostillado o legalizacion de documentos publicos..pdf",
+        "size": 2095955,
+        "mtime": "2025-08-11T04:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2025/Elena Portuguez Mora.pdf",
+        "size": 326085,
+        "mtime": "2025-02-03T19:02"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2026/Case number 53163128.docx",
+        "size": 17480,
+        "mtime": "2026-02-20T13:30"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Documentos personales/2026/Elena Portuguez M.pdf",
+        "size": 92045,
+        "mtime": "2026-02-12T17:48"
+      }
+    ]
+  },
+  "Downloads/Familia": {
+    "archive": "Downloads__Familia.tar.gz",
+    "files": 6,
+    "bytes": 3102068,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/Constancia Salarial Nereo Campos.pdf",
+        "size": 281260,
+        "mtime": "2025-01-17T05:07"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/Constancia de nacimiento.pdf",
+        "size": 297549,
+        "mtime": "2025-10-05T04:53"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/Cedula Nereo .pdf",
+        "size": 2215754,
+        "mtime": "2025-01-16T06:03"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/Comparativa_de_Tallas_de_Beb_s.csv",
+        "size": 760,
+        "mtime": "2025-10-18T19:00"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/constancia matrimonio.pdf",
+        "size": 296112,
+        "mtime": "2025-08-12T20:11"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Familia/2025/Comparativa_de_Tallas_de_Beb_s.xlsx",
+        "size": 10633,
+        "mtime": "2025-10-18T19:01"
+      }
+    ]
+  },
+  "Downloads/Finanzas": {
+    "archive": "Downloads__Finanzas.tar.gz",
+    "files": 5,
+    "bytes": 818278,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Finanzas/2025/CU25042025.pdf",
+        "size": 127774,
+        "mtime": "2025-10-01T01:43"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Finanzas/2025/ordenpatronal.pdf",
+        "size": 9843,
+        "mtime": "2025-10-01T01:49"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Finanzas/2025/Comprobación de Ingresos-OrdenPat_01_12_2024_0-702170005.pdf",
+        "size": 3375,
+        "mtime": "2025-01-13T21:24"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Finanzas/2025/CUENTA BAC.pdf",
+        "size": 673914,
+        "mtime": "2025-11-09T15:02"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Finanzas/2025/OrdenPat_01_01_2025_0-702170005.pdf",
+        "size": 3372,
+        "mtime": "2025-02-12T21:02"
+      }
+    ]
+  },
+  "Downloads/Ingles": {
+    "archive": "Downloads__Ingles.tar.gz",
+    "files": 4,
+    "bytes": 957541,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Ingles/2025/REGULAR-AND-IRREGULAR-VERBS.pdf",
+        "size": 317523,
+        "mtime": "2025-01-23T13:37"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Ingles/2025/TOEFL EXAM TEMPLATE.docx",
+        "size": 19546,
+        "mtime": "2025-01-23T13:36"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Ingles/2025/Excuse me.docx",
+        "size": 18877,
+        "mtime": "2025-01-16T00:36"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Ingles/2024/pte-academic-institution-score-guide-nov-2024-v2.pdf",
+        "size": 601595,
+        "mtime": "2025-01-30T22:35"
+      }
+    ]
+  },
+  "Downloads/LESCO COOPERA y proyectos sociales": {
+    "archive": "Downloads__LESCO_COOPERA_y_proyectos_sociales.tar.gz",
+    "files": 1,
+    "bytes": 392092,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/LESCO COOPERA y proyectos sociales/2024/Alfabet list.pdf",
+        "size": 392092,
+        "mtime": "2024-11-16T04:29"
+      }
+    ]
+  },
+  "Downloads/Migracion y viajes": {
+    "archive": "Downloads__Migracion_y_viajes.tar.gz",
+    "files": 17,
+    "bytes": 21501864,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/KL0760_2025-11-13_SJO-AMS.pdf",
+        "size": 89681,
+        "mtime": "2025-11-24T20:16"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/Insurance_Contract_Svk.pdf",
+        "size": 4659702,
+        "mtime": "2025-12-31T15:15"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/travel-insurance-GCI-E30-11-2019.pdf",
+        "size": 549185,
+        "mtime": "2025-07-08T04:52"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/Información Costa Rica.pdf",
+        "size": 45284,
+        "mtime": "2025-11-24T20:20"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/Gouda_Nordic_910.3_Pre-purchase_information_maj24.pdf",
+        "size": 782527,
+        "mtime": "2025-07-08T04:37"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/reserva de billetes de avión _ Sitio oficial Air France® _ Air France, Costa Rica.pdf",
+        "size": 1430689,
+        "mtime": "2025-03-10T05:04"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/Travel_VIP_Quote_20250710234756.pdf",
+        "size": 4552802,
+        "mtime": "2025-07-11T06:48"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/Insurance_ Contract_Eng.pdf",
+        "size": 3273914,
+        "mtime": "2025-12-31T15:15"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/_ Sitio oficial Air France® _ Air France, Costa Rica.pdf",
+        "size": 1782007,
+        "mtime": "2025-03-11T02:13"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2025/avión _ Sitio oficial Air France® _ Air France, Costa Rica.pdf",
+        "size": 680681,
+        "mtime": "2025-03-11T02:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/ReservePlus_Costa_Rica.docx",
+        "size": 37258,
+        "mtime": "2026-01-01T17:42"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/application.pdf",
+        "size": 118104,
+        "mtime": "2026-02-08T23:32"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/policy_ITVS-669618_5af846bdd7931948661a9c59c88abe9b_549b80866e6c3ee87b1fc9b1c41da2f9.pdf",
+        "size": 1822308,
+        "mtime": "2026-02-19T21:47"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/ITVS-GIC-012026.pdf",
+        "size": 688627,
+        "mtime": "2026-02-19T21:44"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/ReservePlus_Slovakia_Europe.docx",
+        "size": 37149,
+        "mtime": "2026-01-01T17:42"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/application-2.pdf",
+        "size": 63040,
+        "mtime": "2026-02-08T23:32"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Migracion y viajes/2026/policy_brokerage_ITVS-669618_5af846bdd7931948661a9c59c88abe9b.pdf",
+        "size": 888906,
+        "mtime": "2026-02-19T21:42"
+      }
+    ]
+  },
+  "Downloads/Otros": {
+    "archive": "Downloads__Otros.tar.gz",
+    "files": 1,
+    "bytes": 1277,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Otros/GoogleForms_Text_Version.txt",
+        "size": 1277,
+        "mtime": "2025-10-07T23:43"
+      }
+    ]
+  },
+  "Downloads/Proyectos personales y codigo": {
+    "archive": "Downloads__Proyectos_personales_y_codigo.tar.gz",
+    "files": 5,
+    "bytes": 26640,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Proyectos personales y codigo/2025/sistema-reservas-main/README.md",
+        "size": 854,
+        "mtime": "2025-05-05T21:16"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Proyectos personales y codigo/2026/A&A.docx",
+        "size": 16231,
+        "mtime": "2026-01-06T20:51"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Proyectos personales y codigo/2026/product_portfolio-main/_posts/abtesting.md",
+        "size": 3321,
+        "mtime": "2026-02-07T13:41"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Proyectos personales y codigo/2026/product_portfolio-main/_posts/analytics.md",
+        "size": 3191,
+        "mtime": "2026-02-07T13:41"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Proyectos personales y codigo/2026/product_portfolio-main/_posts/mealprep.md",
+        "size": 3043,
+        "mtime": "2026-02-07T13:41"
+      }
+    ]
+  },
+  "Downloads/Salud": {
+    "archive": "Downloads__Salud.tar.gz",
+    "files": 3,
+    "bytes": 3004120,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Salud/2025/Hospital.pdf",
+        "size": 1075191,
+        "mtime": "2025-12-31T15:14"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Salud/2026/AGEL Hospital.docx",
+        "size": 958561,
+        "mtime": "2026-01-06T18:05"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Salud/2026/AGEL Hospital.pdf",
+        "size": 970368,
+        "mtime": "2026-01-06T18:08"
+      }
+    ]
+  },
+  "Downloads/Trabajo": {
+    "archive": "Downloads__Trabajo.tar.gz",
+    "files": 10,
+    "bytes": 2527320,
+    "items": [
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Carta Motivación Elena Portuguez.pdf",
+        "size": 15555,
+        "mtime": "2025-02-18T03:36"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Job Aid - New Joiner Onboarding Tasks Costa Rica.pdf",
+        "size": 836166,
+        "mtime": "2025-09-27T04:59"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Ramp-Up_Guide_Architect.pdf",
+        "size": 270094,
+        "mtime": "2025-02-03T05:49"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Carta Elena Eng.pdf",
+        "size": 35775,
+        "mtime": "2025-01-15T06:24"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Carta Elena-Firma.pdf",
+        "size": 193979,
+        "mtime": "2025-03-01T22:48"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Contrato Laboral Portuguez Mora Elena Ariana - signed.pdf",
+        "size": 645083,
+        "mtime": "2025-01-24T06:17"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/References Eng.ElenaPortuguez.pdf",
+        "size": 181140,
+        "mtime": "2025-01-15T06:36"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Doc Empresa.pdf",
+        "size": 12437,
+        "mtime": "2025-01-21T20:00"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2025/Ramp-Up_Guide_Architect-2.pdf",
+        "size": 270094,
+        "mtime": "2025-02-03T05:49"
+      },
+      {
+        "path": "/Users/arianaportuguez/Downloads/Trabajo/2026/CV Elena Portuguez MVR.pdf",
+        "size": 66997,
+        "mtime": "2026-02-12T18:37"
+      }
+    ]
+  }
+}
